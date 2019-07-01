@@ -9,7 +9,8 @@ The computer gueses random number
 
 The user clicks on the crystals which generate random random to match the computer's guesed number
 
-If user's number equals computer guess the user wins <br>
+If user's number equals computer guess the user wins
+<br>
 <img width="1547" alt="Screen Shot 2019-07-01 at 12 08 54 AM" src="https://user-images.githubusercontent.com/46644726/60417494-6e089780-9b95-11e9-8077-1f3950f15c7e.png">
 
 Else the user loses the game
