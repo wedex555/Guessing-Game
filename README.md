@@ -1,6 +1,6 @@
 # Guessing-Game
 to play live demo https://wedex555.github.io/Guessing-Game/. <br>
-Guessing Game with react
+Guessing Game with react <br>
 There are three crystals 
 
 The computer gueses random number
