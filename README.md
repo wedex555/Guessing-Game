@@ -1,5 +1,5 @@
 # Guessing-Game
-to play 
+to play live demo https://wedex555.github.io/Guessing-Game/.
 Guessing Game with react
 There are three crystals 
 
