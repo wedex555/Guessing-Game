@@ -47,4 +47,13 @@ const playRound = () => {
   const $score = document.createElement("p");
   targetScore = Math.floor(Math.random() * 50) + 25;
   score = 0;
- 
+  $score.textContent = "Score: " + score + " | " + "Target: " + targetScore;
+  crystals
+    .sort(() => 0.5 - Math.random())
+    .forEach(crystal => crystal.render(fragment));
+  fragment.appendChild($score);
+  $root.innerHTML = "";
+  $root.appendChild(fragment);
+};
+
+playRound();
