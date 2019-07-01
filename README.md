@@ -1,2 +1,14 @@
 # Guessing-Game
 Guessing Game with react
+There are three crystals 
+
+The computer gueses random number
+
+The user clicks on the crystals which generate random random to match the comuter's guesed number
+
+If user's number equals computer guess the user wins
+
+Else the user loses the game
+
+Tools Used
+React.js
