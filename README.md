@@ -1,4 +1,5 @@
 # Guessing-Game
+to play 
 Guessing Game with react
 There are three crystals 
 
